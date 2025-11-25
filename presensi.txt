@@ -1,2 +1,4 @@
-nama siswa : rai
-nama siswa : issa
+nama aslab : krisna
+nama aslab : rake
+nama : rai
+nama : issa
